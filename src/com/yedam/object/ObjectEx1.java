@@ -26,7 +26,7 @@ public class ObjectEx1 {
 				for (int j=0; j< i; j++) {
 					if (members[j].memberId.equals(id)) {
 						Check= true;
-					break;
+						break;
 					}
 				}
 				if (Check) {
