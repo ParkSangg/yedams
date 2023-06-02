@@ -6,4 +6,5 @@ public class Member {
 		String membername;
 		int point;
 	
+		Person[] families;
 }
