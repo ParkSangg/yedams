@@ -27,6 +27,7 @@ public class index {
 					continue;
 				}
 			}
+			
 			s1.setStudentNo(StId);
 			
 			System.out.println("이름을 입력해주세요.");
